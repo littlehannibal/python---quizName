@@ -1,2 +1,2 @@
-# python---quizName
+# python---quizGame
 Easy exercise
